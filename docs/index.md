@@ -763,6 +763,8 @@ Wifi N or AC recommended. [Disable Tracking Protection in Firefox](https://suppo
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">&quot;El que posee mucho dinero puede especular; el que tiene poco no debe hacerlo; el que está sin blanca se ve obligado a ello&quot; André Kostolany</p>&mdash; Frases de Trading (@frasesdetrading) <a href="https://twitter.com/frasesdetrading/status/786603758113423361">13 de octubre de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<a href="http://www.vivirenirlanda.com">Vivir en Irlanda</a>
+
 [![europe silicon valley](images/europe_silicon_valley.png)](http://www.startupheatmap.eu/)
 
 [![Boiler-Room-money-root-evil](images/Boiler-Room-money-root-evil.gif)](https://www.youtube.com/watch?v=w4Pu_JuPILw)
