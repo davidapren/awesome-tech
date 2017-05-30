@@ -44,6 +44,7 @@
 - [ycombinator.com: What's the best way to train/onboard new programmers?](https://news.ycombinator.com/item?id=10890032)
 - [Martin Fowler: Certification Vs Competence](http://martinfowler.com/bliki/CertificationCompetenceCorrelation.html)
 - [Please Don't Learn to Code Unless... 🌟🌟](https://www.linkedin.com/pulse/please-dont-learn-code-unless-basel-farag)
+- [Vivir en Irlanda 🌟🌟](https://www.vivirenirlanda.com)
 
 [![knowmads-infografia-acens-blog-cloud](images/knowmads-infografia-acens-blog-cloud.jpg)](http://www.acens.com/blog/wp-content/images/knowmads-infografia-acens-blog-cloud.jpg)
 
